@@ -11,7 +11,7 @@ The rules of the game are very simple: The dealer draws one card from a standard
 A correct guess earns the player a win; a wrong guess results in losing everything. A player who guesses correctly can choose to fold after the results of the first or second round (keeping their winnings).
 
 ---
-## 
+## Deck structure and stage progression demonstration
 ### Stage-wise Expected Value Table
 <img width="922" height="412" alt="image" src="https://github.com/user-attachments/assets/c3617ee0-7934-4b71-b841-d62b48590805" />
 
