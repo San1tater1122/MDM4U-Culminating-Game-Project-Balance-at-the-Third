@@ -12,3 +12,4 @@ A correct guess earns the player a win; a wrong guess results in losing everythi
 
 ---
 
+<img width="720" height="314" alt="image" src="https://github.com/user-attachments/assets/8935e351-8560-42af-8f28-1a3b03cd617f" />
