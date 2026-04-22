@@ -13,8 +13,8 @@ public class BalanceAtTheThirdGame {
     private static final float ROUND1_MULTIPLIER = 2.4f;
     private static final float ROUND2_NUMBER_MULTIPLIER = 1.3f;
     private static final float ROUND2_LETTER_MULTIPLIER = 2.925f;
-    private static final float ROUND3_NUMBER_MULTIPLIER = (float) 50 /3;
-    private static final float ROUND3_LETTER_MULTIPLIER = (float) 200 /27;
+    private static final float ROUND3_NUMBER_MULTIPLIER = 16.164f;
+    private static final float ROUND3_LETTER_MULTIPLIER = 7.184f;
 
     // 庄家获取卡牌
     public static String[] getTheCard(){
@@ -55,6 +55,9 @@ public class BalanceAtTheThirdGame {
     }
 
     // 游戏开始
+    private static int LossInRound1 = 0;
+    private static int LossInRound2 = 0;
+    private static int LossInRound3 = 0;
     public static float GameStart(){
         String[] theCard = getTheCard();
         Scanner sc = new Scanner(System.in);
@@ -75,6 +78,7 @@ public class BalanceAtTheThirdGame {
         System.out.println("You chose " + suit + ".");
         if(!Suits(suit, theCard)) {
             System.out.println("You loss in round 1.");
+            LossInRound1 += 1;
             return 0;
         }
         System.out.println("You win in round 1.");
@@ -94,6 +98,7 @@ public class BalanceAtTheThirdGame {
         }
         if(!ans){
             System.out.println("You loss in round 2.");
+            LossInRound2 += 1;
             return 0;
         }
         System.out.println("You win in round 2.");
@@ -115,6 +120,7 @@ public class BalanceAtTheThirdGame {
             result = Value(ans3, theCard);
             if(!result){
                 System.out.println("You loss in round 3.");
+                LossInRound3 += 1;
                 return 0;
             }
             theBet = theBet * ROUND3_NUMBER_MULTIPLIER;
@@ -127,6 +133,7 @@ public class BalanceAtTheThirdGame {
             result = Value(ans3, theCard);
             if(!result){
                 System.out.println("You loss in round 3.");
+                LossInRound3 += 1;
                 return 0;
             }
             theBet = theBet * ROUND3_LETTER_MULTIPLIER;
@@ -149,7 +156,13 @@ public class BalanceAtTheThirdGame {
                 moneyAward += v;
             }
         }
-        System.out.println("Success = " + success);
+        System.out.println();
+        System.out.println();
+        System.out.println("------Experiment Result------");
+        System.out.println("You won " + success + " games in 900000 games");
+        System.out.println("There are " + LossInRound1 + " loses in round 1.");
+        System.out.println("There are " + LossInRound2 + " loses in round 2.");
+        System.out.println("There are " + LossInRound3 + " loses in round 3.");
         System.out.println("You have spend $" + moneyInput + " in total.");
         System.out.println("Your reward is $" + moneyAward + " in total.");
 
