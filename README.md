@@ -12,9 +12,6 @@ A correct guess earns the player a win; a wrong guess results in losing everythi
 
 ---
 ## Deck structure and stage progression demonstration
-### Stage-wise Expected Value Table (if want the game a 100% fair game )
-<img width="922" height="412" alt="image" src="https://github.com/user-attachments/assets/c3617ee0-7934-4b71-b841-d62b48590805" />
-
 ### Stage-wise Expected Value Table (3% advantage to the house)
 <img width="873" height="415" alt="image" src="https://github.com/user-attachments/assets/668f5d94-1c1f-4933-96a9-aa7fa332b5c2" />
 
@@ -22,4 +19,7 @@ A correct guess earns the player a win; a wrong guess results in losing everythi
 <img width="1548" height="873" alt="image" src="https://github.com/user-attachments/assets/72296808-15a4-44da-8edd-452b1d423c06" />
 
 ---
-
+## Experimental data
+I use Java to do the experiment, it allows me to collect huge amount of data. And I collect 900 thousands data.
+<img width="999" height="672" alt="image" src="https://github.com/user-attachments/assets/d4bfb600-31d4-4648-a9af-44d91a23b0a6" />
+<img width="1726" height="1418" alt="image" src="https://github.com/user-attachments/assets/d0119b12-93f8-444e-82d3-9961f07adc02" />
