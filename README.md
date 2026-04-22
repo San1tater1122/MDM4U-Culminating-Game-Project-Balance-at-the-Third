@@ -15,8 +15,8 @@ A correct guess earns the player a win; a wrong guess results in losing everythi
 ### Stage-wise Expected Value Table (if want the game a 100% fair game )
 <img width="922" height="412" alt="image" src="https://github.com/user-attachments/assets/c3617ee0-7934-4b71-b841-d62b48590805" />
 
-### Stage-wise Expected Value Table (52% to the house, 48% to the player )
-
+### Stage-wise Expected Value Table (3% advantage to the house)
+<img width="873" height="415" alt="image" src="https://github.com/user-attachments/assets/668f5d94-1c1f-4933-96a9-aa7fa332b5c2" />
 
 ### Tree Diagram
 <img width="1548" height="873" alt="image" src="https://github.com/user-attachments/assets/72296808-15a4-44da-8edd-452b1d423c06" />
