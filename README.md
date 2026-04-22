@@ -20,6 +20,6 @@ A correct guess earns the player a win; a wrong guess results in losing everythi
 
 ---
 ## Experimental data
-I use Java to do the experiment, it allows me to collect huge amount of data. And I collect 900 thousands data.
+I use Java to do the experiment, it allows me to collect huge amount of data. And I collect 900,000 datas.
 <img width="999" height="672" alt="image" src="https://github.com/user-attachments/assets/d4bfb600-31d4-4648-a9af-44d91a23b0a6" />
 <img width="1726" height="1418" alt="image" src="https://github.com/user-attachments/assets/d0119b12-93f8-444e-82d3-9961f07adc02" />
