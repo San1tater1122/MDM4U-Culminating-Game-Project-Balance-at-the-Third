@@ -14,14 +14,12 @@ A correct guess earns the player a win; a wrong guess results in losing everythi
 ## Deck structure and stage progression demonstration
 ### Stage-wise Expected Value Table (3% advantage to the house)
 <img width="873" height="415" alt="image" src="https://github.com/user-attachments/assets/668f5d94-1c1f-4933-96a9-aa7fa332b5c2" />
-
 ### Tree Diagram
-<img width="1548" height="873" alt="image" src="https://github.com/user-attachments/assets/72296808-15a4-44da-8edd-452b1d423c06" />
+<img width="1524" height="865" alt="屏幕截图 2026-04-22 230339" src="https://github.com/user-attachments/assets/ad4e6b08-c8d8-4227-93c1-3659d2eb2a0e" />
 
 ---
 ## Theoretical probability calculation
 <img width="1551" height="622" alt="image" src="https://github.com/user-attachments/assets/1ba3d393-8f6d-460c-821f-c55446927d37" />
-
 
 ---
 ## Experimental data
