@@ -1,5 +1,17 @@
 # MDM4U-Culminating-Game-Project-Balance-at-the-Third （BATT）
+## The info 
+### Info include in Readme:
+- Game Rule
+- Specific Game Rule and Probability Tree Diagram
+- Theoretical probability calculation
+- Expected Value Calculation
+- Experimental data
+- Probability Distribution Diagram
+### Info not in Readme:
+- MDM4U Culminating Game Project "Balance at the Third" Report (IMPORTANT!)
+- See the other file on this github
 
+---
 ## Game Rule
 The rules of the game are very simple: The dealer draws one card from a standard deck of 52 cards (excluding jokers). This card is used in all three rounds thereafter. Players place bets.
     
@@ -11,7 +23,7 @@ The rules of the game are very simple: The dealer draws one card from a standard
 A correct guess earns the player a win; a wrong guess results in losing everything. A player who guesses correctly can choose to fold after the results of the first or second round (keeping their winnings).
 
 ---
-## Deck structure and stage progression demonstration
+## Specific Game Rule and Probability Tree Diagram
 ### Stage-wise Expected Value Table (3% advantage to the house)
 <img width="873" height="415" alt="image" src="https://github.com/user-attachments/assets/668f5d94-1c1f-4933-96a9-aa7fa332b5c2" />
 
@@ -24,7 +36,7 @@ Eventhough it looks like the players winrate is only 1.92%, and totally not wort
 <img width="1551" height="622" alt="image" src="https://github.com/user-attachments/assets/1ba3d393-8f6d-460c-821f-c55446927d37" />
 
 ---
-## Expected Value
+## Expected Value Calculation
 We can see through high return, this game is only 3% advantage to the house. This is a high risk high return game, simular to lottery but much higher win rate than that.
 <img width="1748" height="336" alt="image" src="https://github.com/user-attachments/assets/455bd526-8ca8-41fc-9605-85dbfcd90c11" />
 
