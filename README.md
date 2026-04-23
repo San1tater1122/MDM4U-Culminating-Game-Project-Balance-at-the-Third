@@ -47,5 +47,8 @@ I use Java to do the experiment, it allows me to collect huge amount of data. An
 <img width="1726" height="1418" alt="image" src="https://github.com/user-attachments/assets/d0119b12-93f8-444e-82d3-9961f07adc02" />
 
 ---
-## Probability Distribution Diagram
+## Diagrams
+### Box Whisker Plot
+
+### 
 
