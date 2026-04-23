@@ -20,6 +20,6 @@ A correct guess earns the player a win; a wrong guess results in losing everythi
 
 ---
 ## Experimental data
-I use Java to do the experiment, it allows me to collect huge amount of data. And I collect 900,000 datas.
+I use Java to do the experiment, it allows me to collect huge amount of data. And I collect 900,000 datas. The Player's Win Rate is 1.9%. Experimental Expected Rate of Return is (Total revenue - input cost) / Input cost = （8,665,851 coin - 9,000,000 coin）/ 9,000,000 coin = -0.0371 = -3.71%. The data is very close to 3% advantage to the house, which means its acurate.
 <img width="999" height="672" alt="image" src="https://github.com/user-attachments/assets/d4bfb600-31d4-4648-a9af-44d91a23b0a6" />
 <img width="1726" height="1418" alt="image" src="https://github.com/user-attachments/assets/d0119b12-93f8-444e-82d3-9961f07adc02" />
