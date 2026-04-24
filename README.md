@@ -50,7 +50,7 @@ I use Java to do the experiment, it allows me to collect huge amount of data. An
 ## Diagrams
 ### Box Whisker Plot
 <img width="1160" height="429" alt="image" src="https://github.com/user-attachments/assets/118dad1e-ff54-4547-bd5f-7d924ff222fa" />
-
+<img width="1132" height="637" alt="image" src="https://github.com/user-attachments/assets/9347b647-42ce-4337-b06a-aca32eee2bde" />
 
 ### Split Bar Graph (Loss Rate)
 <img width="975" height="346" alt="截屏2026-04-23 15 05 20" src="https://github.com/user-attachments/assets/38cd4040-f271-441b-a498-2691aea2c206" />
