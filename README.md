@@ -34,7 +34,9 @@ A correct guess earns the player a win; a wrong guess results in losing everythi
 ---
 ## Theoretical probability calculation
 Eventhough it looks like the players winrate is only 1.92%, and totally not worth to play. I will tell you why it worth to play in Expected Value Section.
-<img width="1551" height="622" alt="image" src="https://github.com/user-attachments/assets/1ba3d393-8f6d-460c-821f-c55446927d37" />
+<img width="1527" height="268" alt="image" src="https://github.com/user-attachments/assets/9d788521-bcfe-4dbf-b18f-296cabde4547" />
+<img width="1527" height="544" alt="image" src="https://github.com/user-attachments/assets/ec40beaf-c803-438c-bd65-987bf188d2b0" />
+
 
 ---
 ## Expected Value Calculation
